@@ -14,6 +14,7 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		Locale.setDefault(Locale.US);
 		
+		System.out.println("Alteration for GitHub test");
 		System.out.print("How many employees will be registered? ");
 		int quantity = sc.nextInt();
 		
